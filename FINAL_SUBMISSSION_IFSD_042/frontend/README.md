@@ -1,0 +1,1 @@
+Frontend: run `npm install` then `npm run dev` (Vite). Set VITE_API_BASE if backend is hosted elsewhere.

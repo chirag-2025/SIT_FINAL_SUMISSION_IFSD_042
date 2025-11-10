@@ -1,0 +1,1 @@
+AI-powered Interview Practice - Full stack starter. See backend and frontend README for quick start.
